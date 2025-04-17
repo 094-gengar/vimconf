@@ -1,4 +1,5 @@
 set encoding=utf-8
+set re=0
 scriptencoding utf-8
 
 colorscheme Nebulak
